@@ -10,7 +10,7 @@
 
   
 
-My name is Wiliam Paulino, web developer in love with technology and founder of Startup WB Systems - computer solutions
+My name is Wiliam Paulino, web developer in love with technology and founder of Startup WB Systems - IT solutions
   
 
 - :man_technologist: Web Developer | .Net Developer.
