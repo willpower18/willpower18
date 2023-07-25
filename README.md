@@ -10,11 +10,12 @@
 
   
 
-My name is Wiliam Paulino, web developer in love with technology and founder of Startup WB Systems - IT solutions
-  
+My name is Wiliam Paulino, senior web developer with more than 6 years of experience developing and maintaining solutions for various market segments.
+
+I'm in love with technology and I'm founder of startup WB Systems - IT solutions 
 
 - :man_technologist: Web Developer | .Net Developer.
-- :blue_heart: Techs: .Net Core and React Native.
+- :blue_heart: Techs: .Net, C#, JS and React/React Native.
 - :books: DevOps and Mobile Development student.
 - 🎓 Information Systems - [UNILAGO](http://www.unilago.edu.br/)
   
